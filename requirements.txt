@@ -1,0 +1,9 @@
+# Network packet capture and parsing
+scapy==2.5.0
+
+# Data manipulation and analysis
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning (for anomaly detection)
+scikit-learn==1.4.2
